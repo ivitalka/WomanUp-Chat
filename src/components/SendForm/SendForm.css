@@ -1,0 +1,25 @@
+.send_form {
+    display: flex;
+    flex-direction: column;
+}
+
+.text {
+    font-family: Inter, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: #cccccc;
+    width: 500px;
+    height: 50px;
+    align-self: flex-end;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    resize: none;
+}
+
+.send_button {
+    background-color: deepskyblue;
+    width: 200px;
+    border-radius: 10px;
+    align-self: flex-end;
+    height: 30px;
+}
